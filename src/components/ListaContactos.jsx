@@ -1,4 +1,4 @@
-// src/components/ListaContactos.jsx
+
 import { useState } from "react";
 import Modal from "./Modal";
 import BotonAccion from "./BotonAccion";

@@ -1,4 +1,4 @@
-// src/components/Alerta.jsx
+
 
 function Alerta({ tipo = "info", titulo, children }) {
   const config = {

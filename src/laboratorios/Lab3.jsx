@@ -1,4 +1,4 @@
-// src/laboratorios/Lab3.jsx
+
 import Alerta from "../components/Alerta";
 import Acordeon from "../components/Acordeon";
 import BotonAccion from "../components/BotonAccion";
@@ -9,7 +9,7 @@ import FormularioEvento from "../components/Formularioeventos";
 import { useState } from "react";
 
 function Lab3() {
-  // Estado para el modal del Ejercicio 2
+  
   const [modalAbierto, setModalAbierto] = useState(false);
 
   return (

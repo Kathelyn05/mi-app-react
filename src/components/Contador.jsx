@@ -1,4 +1,4 @@
-// src/components/Contador.jsx
+
 import { useState } from "react";
 import BotonAccion from "./BotonAccion";
 import Alerta from "./Alerta";

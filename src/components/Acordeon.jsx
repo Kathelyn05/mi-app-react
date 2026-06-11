@@ -1,4 +1,4 @@
-// src/components/Acordeon.jsx
+
 import { useState } from "react";
 
 function Acordeon({ titulo, children, expandidoInicial = false }) {

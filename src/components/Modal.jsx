@@ -1,4 +1,4 @@
-// src/components/Modal.jsx
+
 
 function Modal({ titulo, abierto, children }) {
   if (!abierto) return null;

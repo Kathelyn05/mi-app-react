@@ -1,4 +1,4 @@
-// src/components/BotonAccion.jsx
+
 
 function BotonAccion({ texto, variante = "primario", disabled = false, onClick }) {
   const estilosBase = {

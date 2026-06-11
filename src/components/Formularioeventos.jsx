@@ -1,4 +1,4 @@
-// src/components/FormularioEvento.jsx
+
 import { useState } from "react";
 import Alerta from "./Alerta";
 import BotonAccion from "./BotonAccion";

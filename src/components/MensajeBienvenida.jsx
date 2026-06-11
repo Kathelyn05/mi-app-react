@@ -2,10 +2,10 @@
 function MensajeBienvenida() {
 
   const usuario = {
-    nombre: "Carlos",
+    nombre: "Kathy",
     rol: "admin", 
   };
-  // const usuario = null; 
+  
 
   if (!usuario) {
     return <p>Por favor, inicia sesión para continuar</p>;
