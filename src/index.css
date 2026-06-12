@@ -52,6 +52,8 @@
 
 body {
   margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f8;
 }
 
 #root {
@@ -108,4 +110,7 @@ code {
   line-height: 135%;
   padding: 4px 8px;
   background: var(--code-bg);
+}
+* {
+  box-sizing: border-box;
 }
